@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "NTMFS5C670NLT1G") (type "KiCad") (uri "${KIPRJMOD}/kicad_api_libs/NTMFS5C670NLT1G.kicad_sym") (options "") (descr ""))
+	(lib (name "RU3030M2-TP") (type "KiCad") (uri "${KIPRJMOD}/kicad_api_libs/RU3030M2-TP.kicad_sym") (options "") (descr ""))
+)
